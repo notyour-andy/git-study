@@ -1,1 +1,1 @@
-# git-study
+# git study notes of andy
